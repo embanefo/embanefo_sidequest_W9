@@ -1,0 +1,24 @@
+Project Title
+GBDA302 Sidequest Week 9
+
+Authors
+Karen Cochrane and David Han
+
+Members
+Ebube Mbanefo
+
+Description
+This code adds a debug screen by pressing the "d" or "D" key which allows the player to toggle on and off the Moon Gravity feature. A temporary speed boost can also be activated by hitting the shift key and it lasts for approximately 5 seconds. I also changed the forward and backward keys to "a" and "s" respectively.
+
+Learning Goals
+
+- Implemented a debug feature for gameplay
+- Implemented features (temporary speed boost) that can be used for potential game development.
+
+Assets
+N/A
+
+GenAI
+The code was written by Dr. Karen Cochrane but she used GenAI to write the comments.
+
+Ebube Mbanefo used GenAI to help implement features and debug some errors in her code to complete the sidequest.
